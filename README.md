@@ -1,2 +1,2 @@
-# Scripts Python
+# Scripts
  Meus scripts para estudo
